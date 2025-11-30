@@ -56,6 +56,41 @@ The solution is built using:
 - 🌍 Most high-performing cities are located in **New York & California**.  
 - 📅 Strong sales spikes observed in **2018 Q2** and **2017 Q1**.  
 
+-----
+
+#📊 Key Insights — Retail Sales & Inventory Analysis
+
+🏬 Store & Region Performance
+
+Baldwin Bikes (New York) drives the majority of revenue and order volume.
+Santa Cruz (California) and Rowlett (Texas) contribute significantly less.
+Sales are highly concentrated in one store → growth opportunity in CA & TX.
+
+🚴 Product Sales Insights
+
+Premium Trek models dominate top-selling products.
+Mountain and hybrid bikes generate higher revenue per order.
+Product demand is brand-driven, particularly Trek > Electra > Surly.
+
+📦 Inventory Analysis
+
+Several products show high inventory but low sales, indicating:
+Overstock issues
+Capital blocked in slow-moving SKUs
+Inventory realignment could free up space & improve cash flow.
+
+👥 Customer Insights
+
+Most customers purchased only once.
+Retention strategy needed:
+Loyalty or repeat purchase discounts
+Targeted marketing campaigns
+
+👩‍💼 Staff Performance
+
+Top 2–3 sales personnel contribute major chunk of store revenue.
+Standardizing best sales practices can help lift team performance overall.
+
 ---
 
 # 📁 Files in this Repository  
