@@ -58,7 +58,7 @@ The solution is built using:
 
 -----
 
-#📊 Key Insights — Retail Sales & Inventory Analysis
+# 📊 Key Insights — Retail Sales & Inventory Analysis
 
 🏬 Store & Region Performance
 
